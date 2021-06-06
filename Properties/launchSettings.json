@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FigureBulkCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\aci865\\OneDrive - haw-hamburg.de\\01 Timo\\01 Dokumente\\02 Uni\\02 Module\\Semester 8\\Digitale Übertragungstechnik\\Labore - Übungen - Praktika\\Praktikum 4\\Abbildungen\" \"Abbildungen/Schirmbilder/\" \"\\linewidth\""
+    }
+  }
+}
