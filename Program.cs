@@ -56,7 +56,7 @@ namespace FigureBulkCreator
                     code.AppendLine("    \\centering");
                     code.AppendLine("    \\fbox{");
 
-                    code.Append("    \\includegraphics[width={");
+                    code.Append("    \\includegraphics[width=");
                     code.Append(size);
                     code.Append("]{");
                     code.Append(prefix);
